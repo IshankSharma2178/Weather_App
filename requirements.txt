@@ -1,2 +1,3 @@
-pip install flask
-pip install requests
+Flask ==1.1.2
+gunicorn ==20.0.4
+requests ==2.24.0
